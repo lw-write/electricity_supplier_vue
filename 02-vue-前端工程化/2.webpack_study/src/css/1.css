@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+    color: #fff;
+}
+
+::placeholder {
+    color: #f00;
+}
+
+input {
+    font-size: 24px;
+}
+
+#box {
+    width: 580px;
+    height: 360px;
+    background-color: #35a;
+    background-image: url(../images/1.jpg);
+}
